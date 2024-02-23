@@ -5,7 +5,7 @@ public class Ejercicio2 {
 
     public static void main(String[] args) {
 
-        int aleatorio = devuelveNumeroAleatorio(80, 160); // devuelve un valor entre 80 y 160
+        int aleatorio = devuelveNumeroAleatorio(80, 160); // devuelvee un valor entre 80 y 160
         long sum = 0;
 
         System.out.println("El valor de la variable aleatorio es " + aleatorio);
