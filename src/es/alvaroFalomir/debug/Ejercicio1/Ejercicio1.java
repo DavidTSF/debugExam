@@ -3,7 +3,7 @@ package es.alvaroFalomir.debug.Ejercicio1;
 import java.util.Scanner;
 
 /*
- * Realiza un programa que a partir de un número n escriba la siguiente secuencia hacia
+ * Realiza un programa que a partir de un número n escriba la siguiente secuencia haciaa
  * atrás para todos los números entre n y 1. Ejemplo para n=10
 
 10 9 8 7 6 5 4 3 2 1
